@@ -4,8 +4,8 @@
 
 <h2>Contents</h2>
 
-<li>Before using the Unsplash API, <a href="https://unsplash.com/developers">register</a> 
-as a developer and get your access key. After that, use that key as your <i>client_id</i></li>
+Before using the Unsplash API, <a href="https://unsplash.com/developers">register</a> 
+as a developer and get your access key. After that, use that key as your <i>client_id</i>
 
 <h2>Installation</h2>
 <pre>$ pip install requirements.txt</pre>
