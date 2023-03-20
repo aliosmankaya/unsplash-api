@@ -1,0 +1,11 @@
+version: '3'
+services:
+  fullstack-churn-prediction:
+    image: unsplash-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: unsplash-api
+    command: "python /app/main.py"
+    ports:
+      - 8000:8000

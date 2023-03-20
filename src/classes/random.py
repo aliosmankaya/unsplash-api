@@ -1,4 +1,4 @@
-from classes import Unsplash
+from src.classes import Unsplash
 
 
 class Random(Unsplash):

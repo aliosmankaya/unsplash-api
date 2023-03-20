@@ -1,4 +1,4 @@
-from classes import Random
+from src.classes import Random
 
 
 def random_service(query: str, count: int):
