@@ -1,4 +1,4 @@
-from src.classes import Photos
+from src.core import Photos
 
 
 def photos_service(page: int, per_page: int, order_by: str):

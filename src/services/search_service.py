@@ -1,4 +1,4 @@
-from src.classes.search import Search
+from src.core.search import Search
 
 
 def search_service(query: str, page: int, per_page: int, order_by: str):
