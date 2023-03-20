@@ -8,4 +8,4 @@ def search_service(query: str, page: int, per_page: int, order_by: str):
     json_data = obj.json_data(data=response)
     formatted_data = obj.json_formatter(data=json_data)
     df = obj.df_formatter(data=formatted_data)
-    return df
+    return df.to_dict("records")

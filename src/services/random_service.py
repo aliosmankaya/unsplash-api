@@ -8,4 +8,4 @@ def random_service(query: str, count: int):
     formatted_data = obj.json_data(data=response)
     json = obj.json_formatter(data=formatted_data)
     df = obj.df_formatter(data=json)
-    return df
+    return df.to_dict("records")
