@@ -1,7 +1,6 @@
 <h1>Unsplash API</h1>
 
-<img src="https://unsplash.com/blog/content/images/max/2560/1-vQ5EsgnJkANWb5fktHPwnw.jpeg" style="float:left; width:40%;">
-<img src="https://i.imgur.com/p0Nufjn.jpg" style="width:40%;">
+<img src="https://unsplash.com/blog/content/images/max/2560/1-vQ5EsgnJkANWb5fktHPwnw.jpeg" style="float:left; width:49%;"><img src="https://i.imgur.com/p0Nufjn.jpg" style="float: right; width:50%;">
 
 <h3>Contents</h3>
 
